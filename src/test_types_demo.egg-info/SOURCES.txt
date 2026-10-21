@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/test_types_demo/__init__.py
+src/test_types_demo/__main__.py
+src/test_types_demo/app.py
+src/test_types_demo/orders.py
+src/test_types_demo.egg-info/PKG-INFO
+src/test_types_demo.egg-info/SOURCES.txt
+src/test_types_demo.egg-info/dependency_links.txt
+src/test_types_demo.egg-info/requires.txt
+src/test_types_demo.egg-info/top_level.txt
